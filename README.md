@@ -2,18 +2,18 @@
 
 I'm Pritom, a Machine Learning Engineer 👨🏻‍💻 from Bangladesh and a Computer Vision (CV) and Natural Language Processing (NLP) enthusiast. I am experienced in research, development and deployment of machine learning and deep learning models and accustomed to data analysis and visualization.
 
-```💻 Currently I am looking for Ph.D opportunity.```
+```💻 Currently I am looking for a Ph.D opportunity.```
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=CV+and+NLP+Researcher.;Python+Developer+with+2%2B+Years+of+Experience.)](https://git.io/typing-svg)
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pritom_Saha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritom-kun)
-[![Researchgate Badge](https://img.shields.io/badge/-Pritom_Kumar_Saha-00caba?style=flat&labelColor=00caba&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pritom_Saha) 
-[![Google Scholar](https://img.shields.io/badge/-Pritom_Kumar_Saha-77a9fa?style=flat&labelColor=77a9fa&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=wD1PVDMAAAAJ)
-[![Twitter Badge](https://img.shields.io/badge/-@Pritom__kun-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi_azim)](https://twitter.com/Pritom_kun)
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pritom.saha10@northsouth.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-Pritom_Saha-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritom-kun)
+[![Researchgate Badge](https://img.shields.io/badge/-Pritom_Kumar_Saha-00caba?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pritom_Saha) 
+[![Google Scholar](https://img.shields.io/badge/-Pritom_Kumar_Saha-77a9fa?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=wD1PVDMAAAAJ)
+[![Twitter Badge](https://img.shields.io/badge/-@Pritom__kun-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pritom_kun)
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritom.saha10@northsouth.edu)
 
 ### Github Overview:
 ![Profile views](https://gpvc.arturio.dev/pritom-kun)
