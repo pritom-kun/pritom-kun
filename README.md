@@ -1,14 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, thanks for dropping by!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415445/60820/grinning-cat-with-smiling-eyes.gif?1660415445" width="35"> Hey, thanks for dropping by!</h1>
 
-I'm Pritom, a Machine Learning Engineer 👨🏻‍💻 from Bangladesh and a Computer Vision (CV) and Natural Language Processing (NLP) enthusiast. I am experienced in research, development and deployment of machine learning and deep learning models and accustomed to data analysis and visualization.
+I'm Pritom, a Machine Learning Engineer 👩🏻‍💻 from Bangladesh and a Computer Vision (CV) 👀 and Natural Language Processing (NLP) ✍🏼 enthusiast. I am experienced in research, development and deployment of machine learning and deep learning models and accustomed to data analysis and visualization.
 
 ```💻 Currently I am looking for a Ph.D opportunity.```
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=CV+and+NLP+Researcher.;Python+Developer+with+2%2B+Years+of+Experience.)](https://git.io/typing-svg)
 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif?1660415347" width="35"> Reach me out!</h2>
 <p align="center">
-  :mailbox: Reach me out!
   <div align="center">
     <a href="https://www.linkedin.com/in/pritom-kun"><img src="https://img.shields.io/badge/-Pritom_Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.researchgate.net/profile/Pritom_Saha"><img src="https://img.shields.io/badge/-Pritom_Kumar_Saha-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
@@ -18,22 +18,26 @@ I'm Pritom, a Machine Learning Engineer 👨🏻‍💻 from Bangladesh and a Co
   </div>
 </p>
 
-<h2>Skills</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="35"> Skills</h2>
 <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-5382a1.svg?&style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-5382A1.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white">
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white">
+  </div>
+  <div align="center">
     <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white">
@@ -50,7 +54,7 @@ I'm Pritom, a Machine Learning Engineer 👨🏻‍💻 from Bangladesh and a Co
   </div>
 </p>
 
-<h2>Github Overview</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643511412/43823/github_on_fire.gif?1643511412" width="35"> Github Overview</h2>
 <p align="center">
   <img align="center" src="https://gpvc.arturio.dev/pritom-kun"/>
   <img align="center" src="https://img.shields.io/github/followers/pritom-kun?style=social"/>
