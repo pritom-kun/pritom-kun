@@ -13,10 +13,12 @@ I'm Pritom, a Machine Learning Engineer 👩🏻‍💻 from Bangladesh and a Co
   <div align="center">
     <a href="https://pritom-kun.github.io"><img alt="Website" src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fgithub.com%2Fpritom-kun%2Fpritom-kun.github.io"></a>
     <a href="https://www.linkedin.com/in/pritom-kun"><img src="https://img.shields.io/badge/-Pritom_Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Pritom_Saha"><img src="https://img.shields.io/badge/-Pritom_Kumar_Saha-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?hl=en&user=wD1PVDMAAAAJ"><img src="https://img.shields.io/badge/-Pritom_Kumar_Saha-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
     <a href="https://twitter.com/Pritom_kun"><img src="https://img.shields.io/badge/-@Pritom__kun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="mailto:pritom.saha10@northsouth.edu"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
+  <div align="center">
+    <a href="https://www.researchgate.net/profile/Pritom_Saha"><img src="https://img.shields.io/badge/-Pritom_Kumar_Saha-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?hl=en&user=wD1PVDMAAAAJ"><img src="https://img.shields.io/badge/-Pritom_Kumar_Saha-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   </div>
 </p>
 
