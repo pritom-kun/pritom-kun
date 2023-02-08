@@ -34,8 +34,8 @@ I'm Pritom, a Machine Learning Engineer 👩🏻‍💻 from Bangladesh and a Co
     <img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white">
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white">
-    <img src="https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white">
     <img src="https://img.shields.io/badge/Triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
