@@ -28,18 +28,23 @@ I'm Pritom, a Machine Learning Engineer 👩🏻‍💻 from Bangladesh and a Co
     <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-5382A1.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white">
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white">
+    <img src="https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white">
+    <img src="https://img.shields.io/badge/Triton Inference Server-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white">
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white">
