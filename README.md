@@ -35,7 +35,7 @@ I'm Pritom, a Machine Learning Engineer 👩🏻‍💻 from Bangladesh and a Co
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white">
     <img src="https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white">
-    <img src="https://img.shields.io/badge/Triton Inference Server-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/Triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
@@ -72,7 +72,7 @@ I'm Pritom, a Machine Learning Engineer 👩🏻‍💻 from Bangladesh and a Co
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom-kun&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl&hide_border=true"/>
   <div align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pritom-kun&show_icons=true&theme=material-palenight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritom-kun&theme=material-palenight&hide_border=true" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=pritom-kun&show_icons=true&theme=material-palenight&hide_border=true" />
+    <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritom-kun&theme=material-palenight&hide_border=true" />
   </div>
 </p>
